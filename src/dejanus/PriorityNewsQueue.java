@@ -1,3 +1,4 @@
+package dejanus;
 
 public class PriorityNewsQueue {
 	private URLNode head;

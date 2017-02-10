@@ -1,4 +1,7 @@
+
+package dejanus;
 import java.net.URL;
+
 
 /*
  * Takes a set from filter and adds it to priority queue. 

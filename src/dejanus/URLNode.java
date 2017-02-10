@@ -1,3 +1,5 @@
+package dejanus;
+
 import java.net.URL;
 
 public class URLNode {
